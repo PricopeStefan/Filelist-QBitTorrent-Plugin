@@ -1,5 +1,5 @@
-#VERSION: 1.00
-# AUTHORS: Stefan Pricoppe (scpricope@gmail.com)
+# VERSION: 1.00
+# AUTHORS: Stefan Pricope (scpricope@gmail.com)
 
 # LICENSING INFORMATION
 
